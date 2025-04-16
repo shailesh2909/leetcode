@@ -6,6 +6,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/shailesh2909/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
