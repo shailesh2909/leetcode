@@ -7,6 +7,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0001-two-sum](https://github.com/shailesh2909/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/shailesh2909/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shailesh2909/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
@@ -26,6 +27,7 @@ This is my Leetcode peoblems repo
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -69,5 +71,6 @@ This is my Leetcode peoblems repo
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
