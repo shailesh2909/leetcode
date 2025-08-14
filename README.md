@@ -9,6 +9,7 @@ This is my Leetcode peoblems repo
 | [0015-3sum](https://github.com/shailesh2909/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shailesh2909/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shailesh2909/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/shailesh2909/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shailesh2909/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
@@ -45,6 +46,7 @@ This is my Leetcode peoblems repo
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shailesh2909/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shailesh2909/leetcode/tree/master/0792-binary-search) |
