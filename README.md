@@ -130,4 +130,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
