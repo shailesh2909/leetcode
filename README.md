@@ -46,6 +46,7 @@ This is my Leetcode peoblems repo
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ This is my Leetcode peoblems repo
 | [0118-pascals-triangle](https://github.com/shailesh2909/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shailesh2909/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 ## Simulation
 |  |
 | ------- |
@@ -143,4 +145,12 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
