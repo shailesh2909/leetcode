@@ -48,6 +48,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shailesh2909/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
@@ -146,6 +147,7 @@ This is my Leetcode peoblems repo
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
