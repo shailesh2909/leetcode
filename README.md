@@ -42,6 +42,7 @@ This is my Leetcode peoblems repo
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shailesh2909/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ This is my Leetcode peoblems repo
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
