@@ -38,6 +38,7 @@ This is my Leetcode peoblems repo
 | [0907-koko-eating-bananas](https://github.com/shailesh2909/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shailesh2909/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -61,6 +62,7 @@ This is my Leetcode peoblems repo
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
