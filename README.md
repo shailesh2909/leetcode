@@ -195,6 +195,7 @@ This is my Leetcode peoblems repo
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
@@ -209,4 +210,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
