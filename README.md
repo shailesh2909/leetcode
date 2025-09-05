@@ -58,6 +58,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shailesh2909/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shailesh2909/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shailesh2909/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ This is my Leetcode peoblems repo
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shailesh2909/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shailesh2909/leetcode/tree/master/0069-sqrtx) |
@@ -207,6 +209,7 @@ This is my Leetcode peoblems repo
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shailesh2909/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
