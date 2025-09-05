@@ -65,6 +65,7 @@ This is my Leetcode peoblems repo
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -122,6 +123,7 @@ This is my Leetcode peoblems repo
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
 ## Dynamic Programming
@@ -208,6 +211,7 @@ This is my Leetcode peoblems repo
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -238,4 +242,12 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
