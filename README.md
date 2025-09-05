@@ -7,6 +7,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0001-two-sum](https://github.com/shailesh2909/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailesh2909/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shailesh2909/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shailesh2909/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shailesh2909/leetcode/tree/master/0031-next-permutation) |
@@ -197,6 +198,7 @@ This is my Leetcode peoblems repo
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -219,4 +221,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
