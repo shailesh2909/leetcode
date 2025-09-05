@@ -75,6 +75,7 @@ This is my Leetcode peoblems repo
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,12 +199,14 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
