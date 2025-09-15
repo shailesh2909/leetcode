@@ -46,6 +46,7 @@ This is my Leetcode peoblems repo
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailesh2909/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/shailesh2909/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
