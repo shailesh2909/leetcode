@@ -40,6 +40,7 @@ This is my Leetcode peoblems repo
 | [0540-single-element-in-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shailesh2909/leetcode/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/shailesh2909/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -118,6 +119,7 @@ This is my Leetcode peoblems repo
 | [0136-single-number](https://github.com/shailesh2909/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ This is my Leetcode peoblems repo
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -173,6 +176,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -184,6 +188,7 @@ This is my Leetcode peoblems repo
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
