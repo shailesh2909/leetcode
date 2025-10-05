@@ -293,4 +293,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/shailesh2909/leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
