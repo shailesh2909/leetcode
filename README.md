@@ -296,5 +296,6 @@ This is my Leetcode peoblems repo
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/shailesh2909/leetcode/tree/master/0175-combine-two-tables) |
 | [0184-department-highest-salary](https://github.com/shailesh2909/leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
