@@ -66,6 +66,7 @@ This is my Leetcode peoblems repo
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shailesh2909/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
