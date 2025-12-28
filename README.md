@@ -52,6 +52,7 @@ This is my Leetcode peoblems repo
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shailesh2909/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailesh2909/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shailesh2909/leetcode/tree/master/1580-shuffle-the-array) |
@@ -124,6 +125,7 @@ This is my Leetcode peoblems repo
 | [0907-koko-eating-bananas](https://github.com/shailesh2909/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shailesh2909/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -207,6 +209,7 @@ This is my Leetcode peoblems repo
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
