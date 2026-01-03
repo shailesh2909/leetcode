@@ -254,6 +254,7 @@ This is my Leetcode peoblems repo
 | [0008-string-to-integer-atoi](https://github.com/shailesh2909/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shailesh2909/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
@@ -284,6 +285,7 @@ This is my Leetcode peoblems repo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
