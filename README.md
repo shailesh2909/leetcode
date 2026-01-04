@@ -49,6 +49,7 @@ This is my Leetcode peoblems repo
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shailesh2909/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -101,6 +102,7 @@ This is my Leetcode peoblems repo
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shailesh2909/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
