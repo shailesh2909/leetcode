@@ -79,6 +79,7 @@ This is my Leetcode peoblems repo
 | [0036-valid-sudoku](https://github.com/shailesh2909/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shailesh2909/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shailesh2909/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
@@ -168,6 +169,7 @@ This is my Leetcode peoblems repo
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shailesh2909/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shailesh2909/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -346,6 +348,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shailesh2909/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shailesh2909/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0908-middle-of-the-linked-list) |
