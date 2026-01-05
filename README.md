@@ -249,6 +249,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -342,6 +343,7 @@ This is my Leetcode peoblems repo
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Enumeration
