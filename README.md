@@ -26,6 +26,7 @@ This is my Leetcode peoblems repo
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shailesh2909/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shailesh2909/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +211,7 @@ This is my Leetcode peoblems repo
 | [0005-longest-palindromic-substring](https://github.com/shailesh2909/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shailesh2909/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailesh2909/leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shailesh2909/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shailesh2909/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -230,6 +232,7 @@ This is my Leetcode peoblems repo
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
@@ -314,6 +317,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -387,4 +391,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
