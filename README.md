@@ -117,6 +117,7 @@ This is my Leetcode peoblems repo
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
+| [2050-count-good-numbers](https://github.com/shailesh2909/leetcode/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search
 |  |
@@ -276,6 +277,7 @@ This is my Leetcode peoblems repo
 | [0206-reverse-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/shailesh2909/leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
