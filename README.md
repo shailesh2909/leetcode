@@ -111,6 +111,7 @@ This is my Leetcode peoblems repo
 | [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shailesh2909/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shailesh2909/leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
@@ -298,6 +299,7 @@ This is my Leetcode peoblems repo
 | [0022-generate-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shailesh2909/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
