@@ -77,6 +77,7 @@ This is my Leetcode peoblems repo
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shailesh2909/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ This is my Leetcode peoblems repo
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +239,7 @@ This is my Leetcode peoblems repo
 | [1027-sum-of-even-numbers-after-queries](https://github.com/shailesh2909/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -280,6 +283,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -355,6 +359,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -408,6 +413,7 @@ This is my Leetcode peoblems repo
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shailesh2909/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -421,4 +427,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0022-generate-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
