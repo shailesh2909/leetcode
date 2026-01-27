@@ -59,6 +59,7 @@ This is my Leetcode peoblems repo
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/shailesh2909/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shailesh2909/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -127,6 +128,7 @@ This is my Leetcode peoblems repo
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
+| [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shailesh2909/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shailesh2909/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -377,6 +379,7 @@ This is my Leetcode peoblems repo
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
