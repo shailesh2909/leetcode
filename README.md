@@ -38,6 +38,7 @@ This is my Leetcode peoblems repo
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shailesh2909/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shailesh2909/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -124,6 +125,7 @@ This is my Leetcode peoblems repo
 | [0066-plus-one](https://github.com/shailesh2909/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shailesh2909/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
@@ -380,6 +382,7 @@ This is my Leetcode peoblems repo
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
@@ -431,6 +434,7 @@ This is my Leetcode peoblems repo
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
 ## Monotonic Stack
 |  |
