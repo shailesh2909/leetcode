@@ -92,6 +92,7 @@ This is my Leetcode peoblems repo
 | [0003-longest-substring-without-repeating-characters](https://github.com/shailesh2909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shailesh2909/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shailesh2909/leetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shailesh2909/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shailesh2909/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/shailesh2909/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -320,6 +321,7 @@ This is my Leetcode peoblems repo
 | [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shailesh2909/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/shailesh2909/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -347,6 +349,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shailesh2909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shailesh2909/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/shailesh2909/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
