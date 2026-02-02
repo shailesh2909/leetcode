@@ -1,27 +1,30 @@
 class Solution {
     public double minimumAverage(int[] nums) {
-        
-        ArrayList<Integer> temp = new ArrayList<>();
-    
-        for (int num : nums) 
+
+        for(int i = 0; i < nums.length - 1; i++)
         {
-            temp.add(num);
+            int j = i;
+
+            while(j >= 0 && nums[j + 1] < nums[j])
+            {
+                int temp = nums[j];
+                nums[j] = nums[j + 1];
+                nums[j + 1] = temp;
+                j--;
+            }
         }
+        
+        int i = 0; 
+        int j = nums.length - 1;
 
         double ans = Double.MAX_VALUE;
 
-        while(temp.size() != 0)
+        while(i < j)
         {
-            int min = Collections.min(temp);
-            int max = Collections.max(temp);
-
-            double res = (double)(min + max)/2;
-            ans = Math.min(ans, res);
-
-            System.out.println(res);
-
-            temp.remove((Integer)min);
-            temp.remove((Integer)max);
+            double temp = (double)(nums[i] + nums[j])/2;
+            ans = Math.min(temp, ans);
+            j--;
+            i++;
         }
 
         return ans;
