@@ -85,6 +85,7 @@ This is my Leetcode peoblems repo
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shailesh2909/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
@@ -276,6 +277,7 @@ This is my Leetcode peoblems repo
 | [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -449,6 +451,7 @@ This is my Leetcode peoblems repo
 | [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Monotonic Stack
 |  |
 | ------- |
