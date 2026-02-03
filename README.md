@@ -89,6 +89,7 @@ This is my Leetcode peoblems repo
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shailesh2909/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [3952-trionic-array-i](https://github.com/shailesh2909/leetcode/tree/master/3952-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
