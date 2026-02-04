@@ -43,6 +43,7 @@ This is my Leetcode peoblems repo
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -351,6 +352,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shailesh2909/leetcode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
