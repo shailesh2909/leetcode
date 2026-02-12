@@ -232,6 +232,7 @@ This is my Leetcode peoblems repo
 | [0160-intersection-of-two-linked-lists](https://github.com/shailesh2909/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shailesh2909/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -269,6 +270,7 @@ This is my Leetcode peoblems repo
 | [0118-pascals-triangle](https://github.com/shailesh2909/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shailesh2909/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
@@ -360,6 +362,7 @@ This is my Leetcode peoblems repo
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shailesh2909/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
