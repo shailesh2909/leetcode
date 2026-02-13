@@ -140,6 +140,7 @@ This is my Leetcode peoblems repo
 | [0013-roman-to-integer](https://github.com/shailesh2909/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shailesh2909/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/shailesh2909/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shailesh2909/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -342,6 +343,7 @@ This is my Leetcode peoblems repo
 | [0021-merge-two-sorted-lists](https://github.com/shailesh2909/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shailesh2909/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shailesh2909/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
