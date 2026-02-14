@@ -32,6 +32,7 @@ This is my Leetcode peoblems repo
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shailesh2909/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shailesh2909/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
@@ -298,6 +299,7 @@ This is my Leetcode peoblems repo
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -365,6 +367,7 @@ This is my Leetcode peoblems repo
 | [0022-generate-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shailesh2909/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/shailesh2909/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/shailesh2909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shailesh2909/leetcode/tree/master/0205-isomorphic-strings) |
@@ -464,6 +467,7 @@ This is my Leetcode peoblems repo
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -521,6 +525,7 @@ This is my Leetcode peoblems repo
 | [0046-permutations](https://github.com/shailesh2909/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shailesh2909/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shailesh2909/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shailesh2909/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shailesh2909/leetcode/tree/master/0216-combination-sum-iii) |
 ## Doubly-Linked List
