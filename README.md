@@ -198,6 +198,7 @@ This is my Leetcode peoblems repo
 | [0190-reverse-bits](https://github.com/shailesh2909/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
@@ -530,6 +531,7 @@ This is my Leetcode peoblems repo
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shailesh2909/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shailesh2909/leetcode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
 ## Doubly-Linked List
 |  |
 | ------- |
