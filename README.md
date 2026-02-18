@@ -434,6 +434,7 @@ This is my Leetcode peoblems repo
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -477,6 +478,7 @@ This is my Leetcode peoblems repo
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -544,6 +546,7 @@ This is my Leetcode peoblems repo
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -561,6 +564,7 @@ This is my Leetcode peoblems repo
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -573,4 +577,8 @@ This is my Leetcode peoblems repo
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/shailesh2909/leetcode/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/shailesh2909/leetcode/tree/master/1203-print-in-order) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
