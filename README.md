@@ -199,6 +199,7 @@ This is my Leetcode peoblems repo
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shailesh2909/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
