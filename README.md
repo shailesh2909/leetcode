@@ -243,6 +243,7 @@ This is my Leetcode peoblems repo
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shailesh2909/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/shailesh2909/leetcode/tree/master/0696-count-binary-substrings) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -379,6 +380,7 @@ This is my Leetcode peoblems repo
 | [0344-reverse-string](https://github.com/shailesh2909/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0696-count-binary-substrings](https://github.com/shailesh2909/leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
