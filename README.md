@@ -476,6 +476,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -545,6 +546,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -555,6 +557,7 @@ This is my Leetcode peoblems repo
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -563,6 +566,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
