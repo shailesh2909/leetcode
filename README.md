@@ -150,6 +150,7 @@ This is my Leetcode peoblems repo
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shailesh2909/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
@@ -200,6 +201,7 @@ This is my Leetcode peoblems repo
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shailesh2909/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shailesh2909/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
