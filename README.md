@@ -147,6 +147,7 @@ This is my Leetcode peoblems repo
 | [0069-sqrtx](https://github.com/shailesh2909/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shailesh2909/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/shailesh2909/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
@@ -197,6 +198,7 @@ This is my Leetcode peoblems repo
 | [0090-subsets-ii](https://github.com/shailesh2909/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shailesh2909/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shailesh2909/leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/shailesh2909/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
@@ -357,6 +359,7 @@ This is my Leetcode peoblems repo
 | [0050-powx-n](https://github.com/shailesh2909/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shailesh2909/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shailesh2909/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
