@@ -207,6 +207,7 @@ This is my Leetcode peoblems repo
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shailesh2909/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/shailesh2909/leetcode/tree/master/0899-binary-gap) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/shailesh2909/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shailesh2909/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Sorting
 |  |
