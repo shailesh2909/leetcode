@@ -498,6 +498,7 @@ This is my Leetcode peoblems repo
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -568,6 +569,7 @@ This is my Leetcode peoblems repo
 | [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -588,6 +590,7 @@ This is my Leetcode peoblems repo
 | [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Game Theory
 |  |
