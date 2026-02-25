@@ -76,6 +76,7 @@ This is my Leetcode peoblems repo
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shailesh2909/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shailesh2909/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailesh2909/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -210,6 +211,7 @@ This is my Leetcode peoblems repo
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shailesh2909/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/shailesh2909/leetcode/tree/master/0899-binary-gap) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shailesh2909/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shailesh2909/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
@@ -230,6 +232,7 @@ This is my Leetcode peoblems repo
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1306-minimum-absolute-difference](https://github.com/shailesh2909/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -280,6 +283,7 @@ This is my Leetcode peoblems repo
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
