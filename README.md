@@ -214,6 +214,7 @@ This is my Leetcode peoblems repo
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/shailesh2909/leetcode/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shailesh2909/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/shailesh2909/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
@@ -311,6 +312,7 @@ This is my Leetcode peoblems repo
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/shailesh2909/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -404,6 +406,7 @@ This is my Leetcode peoblems repo
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
