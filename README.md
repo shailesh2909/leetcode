@@ -21,6 +21,7 @@ This is my Leetcode peoblems repo
 | [0039-combination-sum](https://github.com/shailesh2909/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shailesh2909/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/shailesh2909/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/shailesh2909/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shailesh2909/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shailesh2909/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
@@ -255,6 +256,7 @@ This is my Leetcode peoblems repo
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shailesh2909/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shailesh2909/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shailesh2909/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shailesh2909/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
@@ -301,6 +303,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shailesh2909/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shailesh2909/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shailesh2909/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailesh2909/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
@@ -451,6 +454,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shailesh2909/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -562,6 +566,7 @@ This is my Leetcode peoblems repo
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shailesh2909/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
