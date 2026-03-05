@@ -34,7 +34,7 @@ class Solution {
 
         int[] arr = new int[st.size()];
 
-        System.out.println(st.size());
+        // System.out.println(st.size());
         
         for(int i = arr.length - 1; i >= 0; i--)
         {
