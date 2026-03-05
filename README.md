@@ -422,6 +422,7 @@ This is my Leetcode peoblems repo
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/shailesh2909/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
