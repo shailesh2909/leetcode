@@ -418,6 +418,7 @@ This is my Leetcode peoblems repo
 | [0242-valid-anagram](https://github.com/shailesh2909/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shailesh2909/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/shailesh2909/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/shailesh2909/leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
@@ -442,6 +443,7 @@ This is my Leetcode peoblems repo
 | [0011-container-with-most-water](https://github.com/shailesh2909/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shailesh2909/leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/shailesh2909/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
@@ -474,6 +476,7 @@ This is my Leetcode peoblems repo
 | [0225-implement-stack-using-queues](https://github.com/shailesh2909/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shailesh2909/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/shailesh2909/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -582,6 +585,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailesh2909/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/shailesh2909/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
