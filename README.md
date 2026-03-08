@@ -100,6 +100,7 @@ This is my Leetcode peoblems repo
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -143,6 +144,7 @@ This is my Leetcode peoblems repo
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -439,6 +441,7 @@ This is my Leetcode peoblems repo
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shailesh2909/leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
@@ -609,6 +612,7 @@ This is my Leetcode peoblems repo
 | [0090-subsets-ii](https://github.com/shailesh2909/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shailesh2909/leetcode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
+| [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
