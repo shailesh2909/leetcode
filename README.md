@@ -493,6 +493,7 @@ This is my Leetcode peoblems repo
 | [0402-remove-k-digits](https://github.com/shailesh2909/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -532,6 +533,7 @@ This is my Leetcode peoblems repo
 | [0155-min-stack](https://github.com/shailesh2909/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shailesh2909/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shailesh2909/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Database
 |  |
@@ -603,6 +605,7 @@ This is my Leetcode peoblems repo
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shailesh2909/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -687,4 +690,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shailesh2909/leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
