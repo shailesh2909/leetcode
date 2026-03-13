@@ -70,6 +70,7 @@ This is my Leetcode peoblems repo
 | [0540-single-element-in-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailesh2909/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shailesh2909/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -493,6 +494,7 @@ This is my Leetcode peoblems repo
 | [0209-minimum-size-subarray-sum](https://github.com/shailesh2909/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shailesh2909/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shailesh2909/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
