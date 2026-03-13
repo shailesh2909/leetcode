@@ -455,6 +455,7 @@ This is my Leetcode peoblems repo
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/shailesh2909/leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -581,11 +582,13 @@ This is my Leetcode peoblems repo
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -613,6 +616,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
