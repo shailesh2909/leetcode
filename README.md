@@ -82,6 +82,7 @@ This is my Leetcode peoblems repo
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/shailesh2909/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
@@ -218,6 +219,7 @@ This is my Leetcode peoblems repo
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shailesh2909/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shailesh2909/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shailesh2909/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shailesh2909/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -390,6 +392,7 @@ This is my Leetcode peoblems repo
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
@@ -498,6 +501,7 @@ This is my Leetcode peoblems repo
 | [0643-maximum-average-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
+| [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
