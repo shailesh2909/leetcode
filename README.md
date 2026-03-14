@@ -458,6 +458,7 @@ This is my Leetcode peoblems repo
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shailesh2909/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -656,6 +657,7 @@ This is my Leetcode peoblems repo
 | [0090-subsets-ii](https://github.com/shailesh2909/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shailesh2909/leetcode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shailesh2909/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Doubly-Linked List
 |  |
