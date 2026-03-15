@@ -72,6 +72,7 @@ This is my Leetcode peoblems repo
 | [0628-maximum-product-of-three-numbers](https://github.com/shailesh2909/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/shailesh2909/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shailesh2909/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shailesh2909/leetcode/tree/master/0792-binary-search) |
@@ -393,6 +394,7 @@ This is my Leetcode peoblems repo
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/shailesh2909/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
