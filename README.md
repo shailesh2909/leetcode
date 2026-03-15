@@ -209,6 +209,7 @@ This is my Leetcode peoblems repo
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/shailesh2909/leetcode/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2383-add-two-integers](https://github.com/shailesh2909/leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
