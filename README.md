@@ -58,6 +58,7 @@ This is my Leetcode peoblems repo
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/shailesh2909/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/shailesh2909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -391,6 +392,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shailesh2909/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shailesh2909/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/shailesh2909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -570,6 +572,7 @@ This is my Leetcode peoblems repo
 | [0155-min-stack](https://github.com/shailesh2909/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shailesh2909/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shailesh2909/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/shailesh2909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/shailesh2909/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
 | [1728-fancy-sequence](https://github.com/shailesh2909/leetcode/tree/master/1728-fancy-sequence) |
