@@ -81,6 +81,7 @@ This is my Leetcode peoblems repo
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/shailesh2909/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shailesh2909/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/shailesh2909/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -154,6 +155,7 @@ This is my Leetcode peoblems repo
 | [0460-lfu-cache](https://github.com/shailesh2909/leetcode/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/shailesh2909/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shailesh2909/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shailesh2909/leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -401,6 +403,7 @@ This is my Leetcode peoblems repo
 | [0560-subarray-sum-equals-k](https://github.com/shailesh2909/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shailesh2909/leetcode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -511,6 +514,7 @@ This is my Leetcode peoblems repo
 | [0643-maximum-average-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
+| [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
