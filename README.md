@@ -210,6 +210,7 @@ This is my Leetcode peoblems repo
 | [2050-count-good-numbers](https://github.com/shailesh2909/leetcode/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/shailesh2909/leetcode/tree/master/2383-add-two-integers) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -584,6 +585,7 @@ This is my Leetcode peoblems repo
 | [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
 | ------- |
