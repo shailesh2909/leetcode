@@ -86,6 +86,7 @@ This is my Leetcode peoblems repo
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shailesh2909/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/shailesh2909/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1028-interval-list-intersections](https://github.com/shailesh2909/leetcode/tree/master/1028-interval-list-intersections) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shailesh2909/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -326,6 +327,7 @@ This is my Leetcode peoblems repo
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/shailesh2909/leetcode/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -769,4 +771,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
+## Sweep Line
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/shailesh2909/leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
