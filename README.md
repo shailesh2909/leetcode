@@ -104,6 +104,7 @@ This is my Leetcode peoblems repo
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailesh2909/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shailesh2909/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/shailesh2909/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -425,6 +426,7 @@ This is my Leetcode peoblems repo
 | [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shailesh2909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shailesh2909/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
@@ -541,6 +543,7 @@ This is my Leetcode peoblems repo
 | [1034-subarrays-with-k-different-integers](https://github.com/shailesh2909/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shailesh2909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shailesh2909/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
