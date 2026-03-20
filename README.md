@@ -132,6 +132,7 @@ This is my Leetcode peoblems repo
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shailesh2909/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shailesh2909/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3952-trionic-array-i](https://github.com/shailesh2909/leetcode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -302,6 +303,7 @@ This is my Leetcode peoblems repo
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
@@ -415,6 +417,7 @@ This is my Leetcode peoblems repo
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
