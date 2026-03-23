@@ -145,6 +145,7 @@ This is my Leetcode peoblems repo
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -423,6 +424,7 @@ This is my Leetcode peoblems repo
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -622,6 +624,7 @@ This is my Leetcode peoblems repo
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Trie
 |  |
 | ------- |
