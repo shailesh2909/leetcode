@@ -133,6 +133,7 @@ This is my Leetcode peoblems repo
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -447,6 +448,7 @@ This is my Leetcode peoblems repo
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shailesh2909/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -469,6 +471,7 @@ This is my Leetcode peoblems repo
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
+| [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
