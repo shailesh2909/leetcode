@@ -147,6 +147,7 @@ This is my Leetcode peoblems repo
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shailesh2909/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shailesh2909/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3952-trionic-array-i](https://github.com/shailesh2909/leetcode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -470,6 +471,7 @@ This is my Leetcode peoblems repo
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -492,6 +494,7 @@ This is my Leetcode peoblems repo
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
@@ -775,6 +778,7 @@ This is my Leetcode peoblems repo
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shailesh2909/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Monotonic Stack
 |  |
