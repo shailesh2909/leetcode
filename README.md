@@ -161,6 +161,7 @@ This is my Leetcode peoblems repo
 | [3952-trionic-array-i](https://github.com/shailesh2909/leetcode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -294,6 +295,7 @@ This is my Leetcode peoblems repo
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shailesh2909/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +365,7 @@ This is my Leetcode peoblems repo
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -458,6 +461,7 @@ This is my Leetcode peoblems repo
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
 | ------- |
