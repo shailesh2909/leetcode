@@ -95,6 +95,7 @@ This is my Leetcode peoblems repo
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/shailesh2909/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shailesh2909/leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/shailesh2909/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/shailesh2909/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/shailesh2909/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -206,6 +207,7 @@ This is my Leetcode peoblems repo
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/shailesh2909/leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0906-walking-robot-simulation](https://github.com/shailesh2909/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/shailesh2909/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shailesh2909/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -475,6 +477,7 @@ This is my Leetcode peoblems repo
 | [0657-robot-return-to-origin](https://github.com/shailesh2909/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
+| [0906-walking-robot-simulation](https://github.com/shailesh2909/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/shailesh2909/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
