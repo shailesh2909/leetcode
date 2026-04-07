@@ -813,6 +813,7 @@ This is my Leetcode peoblems repo
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -834,6 +835,7 @@ This is my Leetcode peoblems repo
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -1060,8 +1062,10 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
+| [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
+| [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
