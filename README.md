@@ -485,6 +485,7 @@ This is my Leetcode peoblems repo
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
+| [2178-walking-robot-simulation-ii](https://github.com/shailesh2909/leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shailesh2909/leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -768,6 +769,7 @@ This is my Leetcode peoblems repo
 | [0460-lfu-cache](https://github.com/shailesh2909/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/shailesh2909/leetcode/tree/master/0937-online-stock-span) |
 | [1728-fancy-sequence](https://github.com/shailesh2909/leetcode/tree/master/1728-fancy-sequence) |
+| [2178-walking-robot-simulation-ii](https://github.com/shailesh2909/leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Database
 |  |
