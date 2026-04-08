@@ -1,6 +1,4 @@
 class Robot {
-
-    int[][] grid;
     String currDir;
     int currPos[];
     int width;
@@ -10,8 +8,7 @@ class Robot {
 
         this.width = width;
         this.height = height;
-
-        grid = new int[width][height];
+        
         currDir = "East";
         currPos = new int[2];
 
