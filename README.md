@@ -108,6 +108,7 @@ This is my Leetcode peoblems repo
 | [1028-interval-list-intersections](https://github.com/shailesh2909/leetcode/tree/master/1028-interval-list-intersections) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shailesh2909/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/shailesh2909/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shailesh2909/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -509,6 +510,7 @@ This is my Leetcode peoblems repo
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/shailesh2909/leetcode/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/shailesh2909/leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -843,6 +845,7 @@ This is my Leetcode peoblems repo
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/shailesh2909/leetcode/tree/master/1036-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
