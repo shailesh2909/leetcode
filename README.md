@@ -170,6 +170,7 @@ This is my Leetcode peoblems repo
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/shailesh2909/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shailesh2909/leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
@@ -229,6 +230,7 @@ This is my Leetcode peoblems repo
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shailesh2909/leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
