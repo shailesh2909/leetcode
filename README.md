@@ -153,6 +153,7 @@ This is my Leetcode peoblems repo
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -657,6 +658,7 @@ This is my Leetcode peoblems repo
 | [2197-decode-the-slanted-ciphertext](https://github.com/shailesh2909/leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shailesh2909/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
