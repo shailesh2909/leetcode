@@ -842,6 +842,7 @@ This is my Leetcode peoblems repo
 | [0662-maximum-width-of-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
@@ -874,6 +875,7 @@ This is my Leetcode peoblems repo
 | [0662-maximum-width-of-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1110,6 +1112,7 @@ This is my Leetcode peoblems repo
 | [0130-surrounded-regions](https://github.com/shailesh2909/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shailesh2909/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -1117,6 +1120,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0207-course-schedule](https://github.com/shailesh2909/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
