@@ -138,6 +138,7 @@ This is my Leetcode peoblems repo
 | [1646-kth-missing-positive-number](https://github.com/shailesh2909/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shailesh2909/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -323,6 +324,7 @@ This is my Leetcode peoblems repo
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shailesh2909/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3750-closest-equal-element-queries](https://github.com/shailesh2909/leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -544,6 +546,7 @@ This is my Leetcode peoblems repo
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shailesh2909/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -778,6 +781,7 @@ This is my Leetcode peoblems repo
 | [0621-task-scheduler](https://github.com/shailesh2909/leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shailesh2909/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/shailesh2909/leetcode/tree/master/0948-sort-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Bucket Sort
@@ -863,6 +867,7 @@ This is my Leetcode peoblems repo
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -898,6 +903,7 @@ This is my Leetcode peoblems repo
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
@@ -1130,6 +1136,7 @@ This is my Leetcode peoblems repo
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
