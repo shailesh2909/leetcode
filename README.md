@@ -474,6 +474,7 @@ This is my Leetcode peoblems repo
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shailesh2909/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
+| [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
@@ -680,6 +681,7 @@ This is my Leetcode peoblems repo
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shailesh2909/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
