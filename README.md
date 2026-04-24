@@ -788,6 +788,7 @@ This is my Leetcode peoblems repo
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/shailesh2909/leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shailesh2909/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/shailesh2909/leetcode/tree/master/0948-sort-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -866,6 +867,7 @@ This is my Leetcode peoblems repo
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -903,6 +905,7 @@ This is my Leetcode peoblems repo
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1155,6 +1158,7 @@ This is my Leetcode peoblems repo
 | [0207-course-schedule](https://github.com/shailesh2909/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shailesh2909/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shailesh2909/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -1172,5 +1176,6 @@ This is my Leetcode peoblems repo
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
