@@ -129,6 +129,7 @@ This is my Leetcode peoblems repo
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailesh2909/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shailesh2909/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/shailesh2909/leetcode/tree/master/1580-shuffle-the-array) |
@@ -555,6 +556,7 @@ This is my Leetcode peoblems repo
 | [1171-shortest-path-in-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -884,6 +886,7 @@ This is my Leetcode peoblems repo
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -923,6 +926,7 @@ This is my Leetcode peoblems repo
 | [1036-rotting-oranges](https://github.com/shailesh2909/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -1158,6 +1162,7 @@ This is my Leetcode peoblems repo
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
