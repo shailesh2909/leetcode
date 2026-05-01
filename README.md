@@ -71,6 +71,7 @@ This is my Leetcode peoblems repo
 | [0334-increasing-triplet-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shailesh2909/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/shailesh2909/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/shailesh2909/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -276,6 +277,7 @@ This is my Leetcode peoblems repo
 | [0231-power-of-two](https://github.com/shailesh2909/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/shailesh2909/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/shailesh2909/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailesh2909/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -503,6 +505,7 @@ This is my Leetcode peoblems repo
 | [0152-maximum-product-subarray](https://github.com/shailesh2909/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/shailesh2909/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/shailesh2909/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shailesh2909/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
