@@ -26,6 +26,7 @@ This is my Leetcode peoblems repo
 | [0046-permutations](https://github.com/shailesh2909/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shailesh2909/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shailesh2909/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shailesh2909/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shailesh2909/leetcode/tree/master/0055-jump-game) |
@@ -202,6 +203,7 @@ This is my Leetcode peoblems repo
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shailesh2909/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shailesh2909/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/shailesh2909/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shailesh2909/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shailesh2909/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -377,6 +379,7 @@ This is my Leetcode peoblems repo
 | [0016-3sum-closest](https://github.com/shailesh2909/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shailesh2909/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shailesh2909/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/shailesh2909/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shailesh2909/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
@@ -661,6 +664,7 @@ This is my Leetcode peoblems repo
 | [0022-generate-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shailesh2909/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/shailesh2909/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/shailesh2909/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shailesh2909/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shailesh2909/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
