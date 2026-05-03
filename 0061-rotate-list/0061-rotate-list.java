@@ -14,12 +14,12 @@ class Solution {
 
         if(head == null)
         {
-            return head;
+            return null;
         }
 
         int len = 1;
+        
         ListNode last = head;
-        ListNode temp = head;
 
         while(last.next != null)
         {
@@ -27,27 +27,21 @@ class Solution {
             len++;
         }
 
-
-
         k = k % len;
 
-        if(k % len == 0)
-        {
-            return head;
-        }
-
-        System.out.print(last.val);
+        if(k == 0) return head;
         last.next = head;
+        ListNode temp = head;
 
-        for(int i = 0; i < len - k - 1; i++)
+        for(int i = 1; i < len - k; i++)
         {
             temp = temp.next;
         }
 
-        head = temp.next;
+        ListNode newHead = temp.next;
         temp.next = null;
 
-        return head;
+        return newHead;
 
     }
 }
