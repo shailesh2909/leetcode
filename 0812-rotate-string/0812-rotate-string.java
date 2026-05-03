@@ -1,17 +1,18 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
         
-        if(s.length() > goal.length() || goal.length() > s.length())
+        StringBuilder str = new StringBuilder(s);
+        for(int i = 0; i < s.length(); i++)
         {
-            return false;
+            char ch = str.charAt(0);
+
+            str.deleteCharAt(0);
+
+            str.append(ch);
+
+            if(str.toString().equals(goal)) return true;
         }
 
-        StringBuilder temp = new StringBuilder(s+s);
-        if(temp.indexOf(goal) == -1)
-        {
-            return false;
-        }
-
-        return true;
+        return false;
     }
 }
