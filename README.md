@@ -93,6 +93,7 @@ This is my Leetcode peoblems repo
 | [0643-maximum-average-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shailesh2909/leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/shailesh2909/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
@@ -233,6 +234,7 @@ This is my Leetcode peoblems repo
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shailesh2909/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/shailesh2909/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/shailesh2909/leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/shailesh2909/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -400,6 +402,7 @@ This is my Leetcode peoblems repo
 | [0628-maximum-product-of-three-numbers](https://github.com/shailesh2909/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shailesh2909/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/shailesh2909/leetcode/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/shailesh2909/leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/shailesh2909/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -686,6 +689,7 @@ This is my Leetcode peoblems repo
 | [0657-robot-return-to-origin](https://github.com/shailesh2909/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/shailesh2909/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/shailesh2909/leetcode/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -891,6 +895,7 @@ This is my Leetcode peoblems repo
 | [0572-subtree-of-another-tree](https://github.com/shailesh2909/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -933,6 +938,7 @@ This is my Leetcode peoblems repo
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shailesh2909/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shailesh2909/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shailesh2909/leetcode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shailesh2909/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1180,6 +1186,7 @@ This is my Leetcode peoblems repo
 | [0130-surrounded-regions](https://github.com/shailesh2909/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shailesh2909/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/shailesh2909/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shailesh2909/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
