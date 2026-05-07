@@ -916,6 +916,7 @@ This is my Leetcode peoblems repo
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/shailesh2909/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shailesh2909/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1218,6 +1219,7 @@ This is my Leetcode peoblems repo
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shailesh2909/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shailesh2909/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/shailesh2909/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shailesh2909/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shailesh2909/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1244,4 +1246,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/shailesh2909/leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
