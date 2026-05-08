@@ -289,6 +289,7 @@ This is my Leetcode peoblems repo
 | [0523-continuous-subarray-sum](https://github.com/shailesh2909/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailesh2909/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shailesh2909/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0804-rotated-digits](https://github.com/shailesh2909/leetcode/tree/master/0804-rotated-digits) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
@@ -522,6 +523,7 @@ This is my Leetcode peoblems repo
 | [0542-01-matrix](https://github.com/shailesh2909/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shailesh2909/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0804-rotated-digits](https://github.com/shailesh2909/leetcode/tree/master/0804-rotated-digits) |
 | [0867-new-21-game](https://github.com/shailesh2909/leetcode/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shailesh2909/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
