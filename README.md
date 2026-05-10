@@ -167,6 +167,7 @@ This is my Leetcode peoblems repo
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2721-sum-of-distances](https://github.com/shailesh2909/leetcode/tree/master/2721-sum-of-distances) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -534,6 +535,7 @@ This is my Leetcode peoblems repo
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
