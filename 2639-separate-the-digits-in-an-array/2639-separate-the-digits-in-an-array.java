@@ -1,39 +1,33 @@
 class Solution {
 
-    List<Integer> getNum(int num)
+    String getNum(int num)
     {
-        List<Integer> arr = new ArrayList<>();
+        StringBuffer ans = new StringBuffer();
         while(num > 0)
         {
             int n = num % 10;
-            arr.add(n);
+            ans.append((char) n);
             num = num / 10;
         }
 
-        Collections.reverse(arr);
-
-        return arr;
+        
+        return ans.reverse().toString();
     }
 
     public int[] separateDigits(int[] nums) {
         
-        ArrayList<Integer> arr = new ArrayList<>();
-
+        String temp = "";
         for(int i = 0; i < nums.length; i++)
         {
-            List<Integer> temp = getNum(nums[i]);
+            temp += getNum(nums[i]);
 
-            for(int j = 0; j < temp.size(); j++)
-            {
-                arr.add(temp.get(j));
-            }
         }
 
-        int ans[] = new int[arr.size()];
+        int ans[] = new int[temp.length()];
 
-        for(int i = 0; i < arr.size(); i++)
+        for(int i = 0; i < temp.length(); i++)
         {
-            ans[i] = arr.get(i);
+            ans[i] = temp.charAt(i);
         }
 
         return ans;
