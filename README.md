@@ -166,6 +166,7 @@ This is my Leetcode peoblems repo
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shailesh2909/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/shailesh2909/leetcode/tree/master/2721-sum-of-distances) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
@@ -557,6 +558,7 @@ This is my Leetcode peoblems repo
 | [2178-walking-robot-simulation-ii](https://github.com/shailesh2909/leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shailesh2909/leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2639-separate-the-digits-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shailesh2909/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
