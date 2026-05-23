@@ -172,6 +172,7 @@ This is my Leetcode peoblems repo
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/shailesh2909/leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2721-sum-of-distances](https://github.com/shailesh2909/leetcode/tree/master/2721-sum-of-distances) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
@@ -547,6 +548,7 @@ This is my Leetcode peoblems repo
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -609,6 +611,7 @@ This is my Leetcode peoblems repo
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shailesh2909/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3031-construct-product-matrix](https://github.com/shailesh2909/leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -737,6 +740,7 @@ This is my Leetcode peoblems repo
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailesh2909/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shailesh2909/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
@@ -765,6 +769,7 @@ This is my Leetcode peoblems repo
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shailesh2909/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sliding Window
 |  |
@@ -1230,6 +1235,7 @@ This is my Leetcode peoblems repo
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
