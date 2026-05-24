@@ -32,6 +32,7 @@ This is my Leetcode peoblems repo
 | [0055-jump-game](https://github.com/shailesh2909/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shailesh2909/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shailesh2909/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shailesh2909/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -558,6 +559,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0043-multiply-strings](https://github.com/shailesh2909/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/shailesh2909/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/shailesh2909/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
@@ -582,6 +584,7 @@ This is my Leetcode peoblems repo
 | [0036-valid-sudoku](https://github.com/shailesh2909/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shailesh2909/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
