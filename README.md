@@ -182,6 +182,7 @@ This is my Leetcode peoblems repo
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3398-make-a-square-with-the-same-color](https://github.com/shailesh2909/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shailesh2909/leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -362,6 +363,7 @@ This is my Leetcode peoblems repo
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2634-minimum-common-value](https://github.com/shailesh2909/leetcode/tree/master/2634-minimum-common-value) |
+| [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 | [3750-closest-equal-element-queries](https://github.com/shailesh2909/leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -655,11 +657,13 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
+| [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
 | [1728-fancy-sequence](https://github.com/shailesh2909/leetcode/tree/master/1728-fancy-sequence) |
+| [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
