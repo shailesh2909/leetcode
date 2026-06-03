@@ -203,6 +203,7 @@ This is my Leetcode peoblems repo
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3952-trionic-array-i](https://github.com/shailesh2909/leetcode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shailesh2909/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/shailesh2909/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
@@ -373,6 +374,7 @@ This is my Leetcode peoblems repo
 | [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 | [3750-closest-equal-element-queries](https://github.com/shailesh2909/leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
@@ -450,6 +452,7 @@ This is my Leetcode peoblems repo
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -490,6 +493,7 @@ This is my Leetcode peoblems repo
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shailesh2909/leetcode/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
@@ -799,6 +803,7 @@ This is my Leetcode peoblems repo
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
 |  |
 | ------- |
