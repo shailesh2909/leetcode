@@ -334,6 +334,7 @@ This is my Leetcode peoblems repo
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shailesh2909/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -576,6 +577,7 @@ This is my Leetcode peoblems repo
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1067,6 +1069,7 @@ This is my Leetcode peoblems repo
 | [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
