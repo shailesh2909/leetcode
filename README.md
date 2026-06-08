@@ -172,6 +172,7 @@ This is my Leetcode peoblems repo
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2245-destroying-asteroids](https://github.com/shailesh2909/leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shailesh2909/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/shailesh2909/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shailesh2909/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -493,6 +494,7 @@ This is my Leetcode peoblems repo
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/shailesh2909/leetcode/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/shailesh2909/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shailesh2909/leetcode/tree/master/2634-minimum-common-value) |
@@ -600,6 +602,7 @@ This is my Leetcode peoblems repo
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2178-walking-robot-simulation-ii](https://github.com/shailesh2909/leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shailesh2909/leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/shailesh2909/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
