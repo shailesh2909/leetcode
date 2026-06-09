@@ -211,6 +211,7 @@ This is my Leetcode peoblems repo
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/shailesh2909/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4005-maximum-total-subarray-value-i](https://github.com/shailesh2909/leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shailesh2909/leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/shailesh2909/leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -813,6 +814,7 @@ This is my Leetcode peoblems repo
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4005-maximum-total-subarray-value-i](https://github.com/shailesh2909/leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
