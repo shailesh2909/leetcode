@@ -338,6 +338,7 @@ This is my Leetcode peoblems repo
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shailesh2909/leetcode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -1000,6 +1001,7 @@ This is my Leetcode peoblems repo
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1159,6 +1161,7 @@ This is my Leetcode peoblems repo
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shailesh2909/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
