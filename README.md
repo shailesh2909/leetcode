@@ -218,6 +218,7 @@ This is my Leetcode peoblems repo
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/shailesh2909/leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
+| [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -612,6 +613,7 @@ This is my Leetcode peoblems repo
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shailesh2909/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
+| [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -787,6 +789,7 @@ This is my Leetcode peoblems repo
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shailesh2909/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
