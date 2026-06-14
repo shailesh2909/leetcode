@@ -498,6 +498,7 @@ This is my Leetcode peoblems repo
 | [1019-squares-of-a-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/shailesh2909/leetcode/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shailesh2909/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailesh2909/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -877,6 +878,7 @@ This is my Leetcode peoblems repo
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Trie
@@ -1074,6 +1076,7 @@ This is my Leetcode peoblems repo
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shailesh2909/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shailesh2909/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
 |  |
