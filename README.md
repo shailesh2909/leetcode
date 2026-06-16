@@ -612,6 +612,7 @@ This is my Leetcode peoblems repo
 | [2639-separate-the-digits-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [3931-process-string-with-special-operations-i](https://github.com/shailesh2909/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shailesh2909/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 | [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
@@ -789,6 +790,7 @@ This is my Leetcode peoblems repo
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shailesh2909/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3931-process-string-with-special-operations-i](https://github.com/shailesh2909/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
 ## Greedy
