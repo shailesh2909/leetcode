@@ -159,6 +159,7 @@ This is my Leetcode peoblems repo
 | [1791-richest-customer-wealth](https://github.com/shailesh2909/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/shailesh2909/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shailesh2909/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1968-maximum-building-height](https://github.com/shailesh2909/leetcode/tree/master/1968-maximum-building-height) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/shailesh2909/leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/shailesh2909/leetcode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shailesh2909/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -331,6 +332,7 @@ This is my Leetcode peoblems repo
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1728-fancy-sequence](https://github.com/shailesh2909/leetcode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1968-maximum-building-height](https://github.com/shailesh2909/leetcode/tree/master/1968-maximum-building-height) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/shailesh2909/leetcode/tree/master/2050-count-good-numbers) |
@@ -451,6 +453,7 @@ This is my Leetcode peoblems repo
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/shailesh2909/leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1968-maximum-building-height](https://github.com/shailesh2909/leetcode/tree/master/1968-maximum-building-height) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shailesh2909/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2245-destroying-asteroids](https://github.com/shailesh2909/leetcode/tree/master/2245-destroying-asteroids) |
