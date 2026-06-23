@@ -589,6 +589,7 @@ This is my Leetcode peoblems repo
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/shailesh2909/leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -693,6 +694,7 @@ This is my Leetcode peoblems repo
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shailesh2909/leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/shailesh2909/leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
