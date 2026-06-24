@@ -343,6 +343,7 @@ This is my Leetcode peoblems repo
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/shailesh2909/leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shailesh2909/leetcode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -590,6 +591,7 @@ This is my Leetcode peoblems repo
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/shailesh2909/leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/shailesh2909/leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
