@@ -215,6 +215,7 @@ This is my Leetcode peoblems repo
 | [4005-maximum-total-subarray-value-i](https://github.com/shailesh2909/leetcode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/shailesh2909/leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shailesh2909/leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/shailesh2909/leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -287,6 +288,7 @@ This is my Leetcode peoblems repo
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shailesh2909/leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/shailesh2909/leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -532,6 +534,7 @@ This is my Leetcode peoblems repo
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shailesh2909/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/shailesh2909/leetcode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -698,6 +701,7 @@ This is my Leetcode peoblems repo
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/shailesh2909/leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -711,6 +715,7 @@ This is my Leetcode peoblems repo
 | [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/shailesh2909/leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -718,6 +723,7 @@ This is my Leetcode peoblems repo
 | [0148-sort-list](https://github.com/shailesh2909/leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shailesh2909/leetcode/tree/master/0948-sort-an-array) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
