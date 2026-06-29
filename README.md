@@ -166,6 +166,7 @@ This is my Leetcode peoblems repo
 | [2047-find-a-peak-element-ii](https://github.com/shailesh2909/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/shailesh2909/leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/shailesh2909/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailesh2909/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shailesh2909/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -796,6 +797,7 @@ This is my Leetcode peoblems repo
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shailesh2909/leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailesh2909/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shailesh2909/leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shailesh2909/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
