@@ -352,6 +352,7 @@ This is my Leetcode peoblems repo
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shailesh2909/leetcode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shailesh2909/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shailesh2909/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Binary Search
