@@ -353,6 +353,7 @@ This is my Leetcode peoblems repo
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shailesh2909/leetcode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shailesh2909/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailesh2909/leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shailesh2909/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -709,6 +710,7 @@ This is my Leetcode peoblems repo
 | [3962-number-of-zigzag-arrays-i](https://github.com/shailesh2909/leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/shailesh2909/leetcode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailesh2909/leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -814,6 +816,7 @@ This is my Leetcode peoblems repo
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3931-process-string-with-special-operations-i](https://github.com/shailesh2909/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailesh2909/leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
 ## Greedy
 |  |
