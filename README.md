@@ -204,6 +204,7 @@ This is my Leetcode peoblems repo
 | [3750-closest-equal-element-queries](https://github.com/shailesh2909/leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shailesh2909/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shailesh2909/leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -288,6 +289,7 @@ This is my Leetcode peoblems repo
 | [2721-sum-of-distances](https://github.com/shailesh2909/leetcode/tree/master/2721-sum-of-distances) |
 | [3750-closest-equal-element-queries](https://github.com/shailesh2909/leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/shailesh2909/leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shailesh2909/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shailesh2909/leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shailesh2909/leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
@@ -395,6 +397,7 @@ This is my Leetcode peoblems repo
 | [3435-block-placement-queries](https://github.com/shailesh2909/leetcode/tree/master/3435-block-placement-queries) |
 | [3750-closest-equal-element-queries](https://github.com/shailesh2909/leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shailesh2909/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
@@ -1327,6 +1330,7 @@ This is my Leetcode peoblems repo
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shailesh2909/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1343,6 +1347,7 @@ This is my Leetcode peoblems repo
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shailesh2909/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shailesh2909/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
