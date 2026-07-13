@@ -1124,6 +1124,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shailesh2909/leetcode/tree/master/0204-count-primes) |
+| [1212-sequential-digits](https://github.com/shailesh2909/leetcode/tree/master/1212-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2037-count-square-sum-triples](https://github.com/shailesh2909/leetcode/tree/master/2037-count-square-sum-triples) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shailesh2909/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
