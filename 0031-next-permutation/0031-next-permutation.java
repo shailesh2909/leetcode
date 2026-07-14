@@ -1,37 +1,56 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int n = nums.length;
-        int i = n - 2;
+        
+        int br = -1;
 
-        // Step 1: Find the first decreasing element from the right
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-
-        // Step 2: If such element is found, find the next greater element to swap
-        if (i >= 0) {
-            int j = n - 1;
-            while (nums[j] <= nums[i]) {
-                j--;
+        for(int i = 0; i < nums.length - 1; i++)
+        {
+            if(nums[i] < nums[i+1])
+            {
+                br = i;
             }
-            swap(nums, i, j);
         }
 
-        // Step 3: Reverse the elements from i+1 to the end
-        reverse(nums, i + 1, n - 1);
+        if(br == -1)
+        {
+            reverse(nums, 0);
+        }
+        else
+        {
+            int gr = br;
+
+            for(int i = nums.length - 1; i > br; i--)
+            {
+                if(br != -1 && nums[i] > nums[br])
+                {
+                    gr = i;
+                    break;
+                }
+            }
+        
+            int temp = nums[br];
+            nums[br] = nums[gr];
+            nums[gr] = temp;
+        
+            reverse(nums, br+1);
+
+        }
+        
     }
 
-    // Helper function to swap two elements
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
-    }
+    public void reverse(int[] arr, int start)
+    {
+        int left = start;
+        int right = arr.length - 1;
 
-    // Helper function to reverse a subarray
-    private void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            swap(nums, start++, end--);
+        
+        while (left < right) {
+            int temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+            
+            left++;
+            right--;
         }
     }
 }
