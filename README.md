@@ -227,6 +227,7 @@ This is my Leetcode peoblems repo
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 | [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +362,7 @@ This is my Leetcode peoblems repo
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailesh2909/leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailesh2909/leetcode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shailesh2909/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -487,6 +489,7 @@ This is my Leetcode peoblems repo
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shailesh2909/leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -531,6 +534,7 @@ This is my Leetcode peoblems repo
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -645,6 +649,7 @@ This is my Leetcode peoblems repo
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shailesh2909/leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4213-merge-adjacent-equal-elements](https://github.com/shailesh2909/leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 | [4216-weighted-word-mapping](https://github.com/shailesh2909/leetcode/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -965,6 +970,7 @@ This is my Leetcode peoblems repo
 | [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
