@@ -813,6 +813,7 @@ This is my Leetcode peoblems repo
 | [0721-accounts-merge](https://github.com/shailesh2909/leetcode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shailesh2909/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shailesh2909/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shailesh2909/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -856,6 +857,7 @@ This is my Leetcode peoblems repo
 | [0678-valid-parenthesis-string](https://github.com/shailesh2909/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/shailesh2909/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shailesh2909/leetcode/tree/master/0890-lemonade-change) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shailesh2909/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/shailesh2909/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/shailesh2909/leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -924,6 +926,7 @@ This is my Leetcode peoblems repo
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shailesh2909/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shailesh2909/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -1159,6 +1162,7 @@ This is my Leetcode peoblems repo
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/shailesh2909/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shailesh2909/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/shailesh2909/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
