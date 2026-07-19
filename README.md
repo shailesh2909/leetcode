@@ -82,6 +82,7 @@ This is my Leetcode peoblems repo
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shailesh2909/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shailesh2909/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shailesh2909/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shailesh2909/leetcode/tree/master/0455-assign-cookies) |
@@ -261,6 +262,7 @@ This is my Leetcode peoblems repo
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shailesh2909/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shailesh2909/leetcode/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/shailesh2909/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shailesh2909/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -424,6 +426,7 @@ This is my Leetcode peoblems repo
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/shailesh2909/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/shailesh2909/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shailesh2909/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -941,6 +944,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shailesh2909/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/shailesh2909/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
