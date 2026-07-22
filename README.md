@@ -73,6 +73,7 @@ This is my Leetcode peoblems repo
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/shailesh2909/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shailesh2909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/shailesh2909/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/shailesh2909/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -386,6 +387,7 @@ This is my Leetcode peoblems repo
 | [0222-count-complete-tree-nodes](https://github.com/shailesh2909/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shailesh2909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shailesh2909/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/shailesh2909/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
@@ -425,6 +427,7 @@ This is my Leetcode peoblems repo
 | [0231-power-of-two](https://github.com/shailesh2909/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shailesh2909/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shailesh2909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shailesh2909/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -521,6 +524,7 @@ This is my Leetcode peoblems repo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shailesh2909/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shailesh2909/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shailesh2909/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/shailesh2909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/shailesh2909/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/shailesh2909/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shailesh2909/leetcode/tree/master/0392-is-subsequence) |
