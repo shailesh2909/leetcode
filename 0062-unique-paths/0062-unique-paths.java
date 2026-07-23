@@ -14,16 +14,15 @@ class Solution {
 
         if(dp[row][col] != 0) return dp[row][col];
 
-        int down = solve(row + 1, col, m, n, dp);
-        int right = solve(row, col + 1, m, n, dp);
+        int down = solve(row+1, col, m, n, dp);
+        int right = solve(row, col+1, m, n, dp);
 
         return dp[row][col] = down + right;
     }
-
     public int uniquePaths(int m, int n) {
-
+        
         int dp[][] = new int[m][n];
 
-        return solve(0, 0, m, n, dp);    
+        return solve(0, 0, m, n, dp);
     }
 }
