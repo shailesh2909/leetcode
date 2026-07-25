@@ -361,6 +361,7 @@ This is my Leetcode peoblems repo
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/shailesh2909/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/shailesh2909/leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/shailesh2909/leetcode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -495,6 +496,7 @@ This is my Leetcode peoblems repo
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/shailesh2909/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shailesh2909/leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
