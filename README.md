@@ -51,6 +51,7 @@ This is my Leetcode peoblems repo
 | [0118-pascals-triangle](https://github.com/shailesh2909/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shailesh2909/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/shailesh2909/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shailesh2909/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/shailesh2909/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shailesh2909/leetcode/tree/master/0136-single-number) |
@@ -250,6 +251,7 @@ This is my Leetcode peoblems repo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shailesh2909/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/shailesh2909/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shailesh2909/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/shailesh2909/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shailesh2909/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shailesh2909/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shailesh2909/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -1359,6 +1361,7 @@ This is my Leetcode peoblems repo
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shailesh2909/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shailesh2909/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shailesh2909/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shailesh2909/leetcode/tree/master/0547-number-of-provinces) |
