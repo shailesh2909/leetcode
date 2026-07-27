@@ -152,6 +152,7 @@ This is my Leetcode peoblems repo
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailesh2909/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shailesh2909/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/shailesh2909/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/shailesh2909/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shailesh2909/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -486,6 +487,7 @@ This is my Leetcode peoblems repo
 | [1306-minimum-absolute-difference](https://github.com/shailesh2909/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shailesh2909/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/shailesh2909/leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1968-maximum-building-height](https://github.com/shailesh2909/leetcode/tree/master/1968-maximum-building-height) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shailesh2909/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -978,6 +980,7 @@ This is my Leetcode peoblems repo
 | [0794-swim-in-rising-water](https://github.com/shailesh2909/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shailesh2909/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/shailesh2909/leetcode/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shailesh2909/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/shailesh2909/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
