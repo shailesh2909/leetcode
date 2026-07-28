@@ -499,6 +499,7 @@ This is my Leetcode peoblems repo
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/shailesh2909/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/shailesh2909/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shailesh2909/leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -853,6 +854,7 @@ This is my Leetcode peoblems repo
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shailesh2909/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/shailesh2909/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/shailesh2909/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shailesh2909/leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailesh2909/leetcode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1352,6 +1354,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shailesh2909/leetcode/tree/master/0948-sort-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/shailesh2909/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Quickselect
 |  |
 | ------- |
