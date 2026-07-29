@@ -1045,6 +1045,7 @@ This is my Leetcode peoblems repo
 | [0595-big-countries](https://github.com/shailesh2909/leetcode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shailesh2909/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1182-game-play-analysis-iv](https://github.com/shailesh2909/leetcode/tree/master/1182-game-play-analysis-iv) |
+| [1908-recyclable-and-low-fat-products](https://github.com/shailesh2909/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
 | ------- |
