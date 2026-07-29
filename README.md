@@ -1042,6 +1042,7 @@ This is my Leetcode peoblems repo
 | [0184-department-highest-salary](https://github.com/shailesh2909/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/shailesh2909/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/shailesh2909/leetcode/tree/master/0585-investments-in-2016) |
+| [0595-big-countries](https://github.com/shailesh2909/leetcode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shailesh2909/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1182-game-play-analysis-iv](https://github.com/shailesh2909/leetcode/tree/master/1182-game-play-analysis-iv) |
 ## Depth-First Search
