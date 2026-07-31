@@ -36,6 +36,7 @@ This is my Leetcode peoblems repo
 | [0063-unique-paths-ii](https://github.com/shailesh2909/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shailesh2909/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shailesh2909/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/shailesh2909/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shailesh2909/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shailesh2909/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
@@ -657,6 +658,7 @@ This is my Leetcode peoblems repo
 | [0043-multiply-strings](https://github.com/shailesh2909/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shailesh2909/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shailesh2909/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/shailesh2909/leetcode/tree/master/0068-text-justification) |
 | [0495-teemo-attacking](https://github.com/shailesh2909/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/shailesh2909/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shailesh2909/leetcode/tree/master/0735-asteroid-collision) |
@@ -820,6 +822,7 @@ This is my Leetcode peoblems repo
 | [0043-multiply-strings](https://github.com/shailesh2909/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shailesh2909/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shailesh2909/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/shailesh2909/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/shailesh2909/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shailesh2909/leetcode/tree/master/0125-valid-palindrome) |
