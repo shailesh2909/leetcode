@@ -1,27 +1,43 @@
 class Solution {
 
-    public boolean find(int[] nums, int low, int high, int scorea, int scoreb, boolean player) {
+    public boolean find(int[] nums, int low, int high, int scoreA, int scoreB, boolean player)
+    {
 
-        if (low == high) {
-            if (player) scorea += nums[low];
-            else scoreb += nums[low];
-            return scorea >= scoreb;
+        if(low == high)
+        {
+            if(player)
+            {
+                scoreA += nums[low];
+            }
+            else
+            {
+                scoreB += nums[low];
+            }
+
+            return scoreA >= scoreB;
         }
 
-        boolean takeLeft, takeRight;
+        boolean takeLow;
+        boolean takeHigh;
 
-        if (player) {
-            takeLeft  = find(nums, low + 1, high, scorea + nums[low], scoreb, false);
-            takeRight = find(nums, low, high - 1, scorea + nums[high], scoreb, false);
-            return takeLeft || takeRight;
-        } else {
-            takeLeft  = find(nums, low + 1, high, scorea, scoreb + nums[low], true);
-            takeRight = find(nums, low, high - 1, scorea, scoreb + nums[high], true);
-            return takeLeft && takeRight;
+        if(player)
+        {
+            takeLow = find(nums, low + 1, high, scoreA + nums[low], scoreB, false);
+            takeHigh = find(nums, low, high - 1, scoreA + nums[high], scoreB, false);
+
+            return takeLow || takeHigh;
+        }
+        else
+        {
+            takeLow = find(nums, low + 1, high, scoreA, scoreB + nums[low], true);
+            takeHigh = find(nums, low, high - 1, scoreA, scoreB + nums[high], true);
+
+            return takeLow && takeHigh;
         }
     }
 
     public boolean predictTheWinner(int[] nums) {
+        
         return find(nums, 0, nums.length - 1, 0, 0, true);
     }
 }
