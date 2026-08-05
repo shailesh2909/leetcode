@@ -1127,6 +1127,7 @@ This is my Leetcode peoblems repo
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/shailesh2909/leetcode/tree/master/3561-remove-methods-from-project) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -1175,6 +1176,7 @@ This is my Leetcode peoblems repo
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3561-remove-methods-from-project](https://github.com/shailesh2909/leetcode/tree/master/3561-remove-methods-from-project) |
 ## Linked List
 |  |
 | ------- |
@@ -1447,6 +1449,7 @@ This is my Leetcode peoblems repo
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shailesh2909/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/shailesh2909/leetcode/tree/master/3561-remove-methods-from-project) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/shailesh2909/leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
