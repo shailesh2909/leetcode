@@ -1,7 +1,6 @@
 class Solution {
 
-    public int dfs(int node, int dst, int stops,
-                   List<List<int[]>> adj, int[][] dp) {
+    public int dfs(int node, int dst, int stops, List<List<int[]>> adj, int[][] dp) {
 
         if(node == dst)
             return 0;
@@ -9,7 +8,7 @@ class Solution {
         if(stops == 0)
             return Integer.MAX_VALUE;
 
-        if(dp[node][stops] != -1)
+        if(dp[node][stops] != 0)
             return dp[node][stops];
 
         int minCost = Integer.MAX_VALUE;
@@ -29,8 +28,7 @@ class Solution {
         return dp[node][stops] = minCost;
     }
 
-    public int findCheapestPrice(int n, int[][] flights,
-                                 int src, int dst, int k) {
+    public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
 
         List<List<int[]>> adj = new ArrayList<>();
 
@@ -42,9 +40,6 @@ class Solution {
         }
 
         int[][] dp = new int[n][k + 2];
-
-        for(int i = 0; i < n; i++)
-            Arrays.fill(dp[i], -1);
 
         int ans = dfs(src, dst, k + 1, adj, dp);
 
