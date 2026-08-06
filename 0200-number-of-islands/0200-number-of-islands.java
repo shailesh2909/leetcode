@@ -3,10 +3,10 @@ class Pair
     int first;
     int second;
 
-    public Pair(int first, int second)
+    public Pair(int f, int s)
     {
-        this.first = first;
-        this.second = second;
+        first = f;
+        second = s;
     }
 }
 
@@ -18,49 +18,45 @@ class Solution {
 
         Queue<Pair> q = new LinkedList<>();
 
-        q.offer(new Pair(row, col));
+        q.add(new Pair(row, col));
+
+        int[] rdir = {-1, 1, 0, 0};
+        int[] cdir = {0, 0, -1, 1};
 
         while(!q.isEmpty())
         {
-            Pair curr = q.poll();
+            Pair temp = q.poll();
 
-            int nrow = curr.first;
-            int ncol = curr.second;
+            int nrow = temp.first;
+            int ncol = temp.second;
 
-            for(int i = -1; i <= 1; i++)
+            for(int i = 0; i < 4; i++)
             {
-                for(int j = -1; j <= 1; j++)
+                int nr = nrow + rdir[i];
+                int nc = ncol + cdir[i];
+
+                if(nr >= 0 && nr < m && nc >= 0 && nc < n && vis[nr][nc] == false && grid[nr][nc] == '1')
                 {
-                    if(Math.abs(i) + Math.abs(j) != 1)
-                        continue;
-
-                    int nr = nrow + i;
-                    int nc = ncol + j;
-
-                    if(nr >= 0 && nr < m && nc >= 0 && nc < n && vis[nr][nc] == false && grid[nr][nc] == '1')
-                    {
-                        vis[nr][nc] = true;
-                        q.offer(new Pair(nr, nc));
-                    }
+                    vis[nr][nc] = true;
+                    q.offer(new Pair(nr, nc));
                 }
             }
         }
     }
 
     public int numIslands(char[][] grid) {
-
+        
+        int count = 0;
         int m = grid.length;
         int n = grid[0].length;
 
-        int count = 0;
-
-        boolean vis[][] = new boolean[m][n];
+        boolean[][] vis = new boolean[m][n];
 
         for(int i = 0; i < m; i++)
         {
             for(int j = 0; j < n; j++)
             {
-                if(vis[i][j] == false && grid[i][j] == '1')
+                if(!vis[i][j] && grid[i][j] == '1')
                 {
                     count++;
                     bfs(i, j, m, n, vis, grid);
