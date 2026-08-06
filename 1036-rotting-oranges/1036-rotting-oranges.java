@@ -1,76 +1,87 @@
 class Pair
 {
-    int row;
-    int col;
-    int tm;
+    int first;
+    int second;
 
-    Pair(int row, int col, int tm)
+    public Pair(int first, int second)
     {
-        this.row = row;
-        this.col = col;
-        this.tm = tm;
+        this.first = first;
+        this.second = second;
     }
 }
 
 class Solution {
     public int orangesRotting(int[][] grid) {
         
-        int n = grid.length;
-        int m = grid[0].length;
-
         Queue<Pair> q = new LinkedList<>();
+        int m = grid.length;
+        int n = grid[0].length;
+        int fresh = 0;
 
-        int[][] vis = new int[n][m];
-        int cntFresh =  0;
-
-        for(int i = 0;i < n; i++)
+        for(int i = 0; i < m; i++)
         {
-            for(int j = 0; j < m; j++)
+            for(int j = 0; j < n; j++)
             {
                 if(grid[i][j] == 2)
                 {
-                    q.add(new Pair(i, j, 0));
-                    vis[i][j] = 2;
+                    q.offer(new Pair(i, j));
                 }
-                else
+                else if(grid[i][j] == 1)
                 {
-                    vis[i][j] = 0;
+                    fresh++;
                 }
-
-                if(grid[i][j] == 1) cntFresh++;
             }
         }
 
-        int tm = 0;
-        int dRow[] = {-1, 0, +1, 0};
-        int dCol[] = {0, 1, 0, -1};
-        int cnt = 0;
+        
+        int ans = 0;
+
+        if(fresh == 0)
+        {
+            return 0;
+        }
+
+        int[] rDir = {-1, 1, 0 , 0};
+        int[] cDir = {0, 0, -1, 1};
 
         while(!q.isEmpty())
         {
-            int r = q.peek().row;
-            int c = q.peek().col;
-            int t = q.peek().tm;
+            int size = q.size();
+            boolean flag = false;
 
-            tm = Math.max(tm, t);
-            q.remove();
-
-            for(int i = 0; i < 4; i++)
+            for(int j = 0; j < size; j++)
             {
-                int nRow = r + dRow[i];
-                int nCol = c + dCol[i];
+                Pair temp = q.poll();
 
-                if(nRow >= 0 && nRow < n && nCol >= 0 && nCol < m && vis[nRow][nCol] == 0 && grid[nRow][nCol] == 1)
+                int row = temp.first;
+                int col = temp.second;
+
+                for(int i = 0; i < 4; i++)
                 {
-                    q.add(new Pair(nRow, nCol, t + 1));
-                    vis[nRow][nCol] = 2;
-                    cnt++;
+                    int nr = row + rDir[i];
+                    int nc = col + cDir[i];
+
+                    if(nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == 1)
+                    {
+                        flag = true;
+                        fresh--;
+                        q.offer(new Pair(nr, nc));
+                        grid[nr][nc] = 2;
+                    }
                 }
+            }
+
+            if(flag)
+            {
+                ans++;
             }
         }
 
-        if(cnt != cntFresh) return -1;
+        if(fresh == 0)
+        {
+            return ans;
+        }
 
-        return tm;
+        return -1;
     }
 }
