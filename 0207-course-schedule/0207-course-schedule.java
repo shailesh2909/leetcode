@@ -1,9 +1,32 @@
 class Solution {
+
+    public boolean dfs(int node, boolean[] vis, boolean[] recPath, List<List<Integer>> adj)
+    {
+        vis[node] = true;
+        recPath[node] = true;
+
+        for(int ele : adj.get(node))
+        {
+            if(!vis[ele])
+            {
+                if(dfs(ele, vis, recPath, adj))
+                {
+                    return true;
+                }
+            }
+            else if(recPath[ele])
+            {
+                return true;
+            }
+        }
+
+        recPath[node] = false;
+        return false;
+    }
+
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         
         List<List<Integer>> adj = new ArrayList<>();
-
-        int[] indegree = new int[numCourses];
 
         for(int i = 0; i < numCourses; i++)
         {
@@ -13,41 +36,21 @@ class Solution {
         for(int[] edges: prerequisites)
         {
             adj.get(edges[1]).add(edges[0]);
-            indegree[edges[0]]++;
         }
 
-        Queue<Integer> q = new LinkedList<>();
-
+        boolean vis[] = new boolean[numCourses];
+        boolean recPath[] = new boolean[numCourses];
+        
         for(int i = 0; i < numCourses; i++)
         {
-            if(indegree[i] == 0)
+            if(!vis[i])
             {
-                q.offer(i);
-            }
-        }
-
-        while(!q.isEmpty())
-        {
-            int curr = q.poll();
-
-            for(int ele : adj.get(curr))
-            {
-                indegree[ele]--;
-                if(indegree[ele] == 0)
+                if(dfs(i, vis, recPath, adj))
                 {
-                    q.offer(ele);
+                    return false;
                 }
             }
         }
-
-        for(int i = 0; i < numCourses; i++)
-        {
-            if(indegree[i] > 0)
-            {
-                return false;
-            }
-        }
-
         return true;
     }
 }
