@@ -377,6 +377,7 @@ This is my Leetcode peoblems repo
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shailesh2909/leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shailesh2909/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shailesh2909/leetcode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/shailesh2909/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shailesh2909/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -885,6 +886,7 @@ This is my Leetcode peoblems repo
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shailesh2909/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shailesh2909/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/shailesh2909/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/shailesh2909/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/shailesh2909/leetcode/tree/master/3931-process-string-with-special-operations-i) |
@@ -925,6 +927,7 @@ This is my Leetcode peoblems repo
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shailesh2909/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shailesh2909/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/shailesh2909/leetcode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -1038,6 +1041,7 @@ This is my Leetcode peoblems repo
 | [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shailesh2909/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shailesh2909/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/shailesh2909/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/shailesh2909/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -1253,6 +1257,7 @@ This is my Leetcode peoblems repo
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shailesh2909/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
