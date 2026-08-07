@@ -1129,6 +1129,7 @@ This is my Leetcode peoblems repo
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shailesh2909/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -1178,6 +1179,7 @@ This is my Leetcode peoblems repo
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shailesh2909/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shailesh2909/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/shailesh2909/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shailesh2909/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/shailesh2909/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -1456,6 +1458,7 @@ This is my Leetcode peoblems repo
 | [1300-critical-connections-in-a-network](https://github.com/shailesh2909/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shailesh2909/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shailesh2909/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shailesh2909/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/shailesh2909/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/shailesh2909/leetcode/tree/master/3561-remove-methods-from-project) |
