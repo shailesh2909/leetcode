@@ -569,6 +569,7 @@ This is my Leetcode peoblems repo
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shailesh2909/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shailesh2909/leetcode/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shailesh2909/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/shailesh2909/leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shailesh2909/leetcode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -658,6 +659,7 @@ This is my Leetcode peoblems repo
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shailesh2909/leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/shailesh2909/leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shailesh2909/leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/shailesh2909/leetcode/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -886,6 +888,7 @@ This is my Leetcode peoblems repo
 | [3019-furthest-point-from-origin](https://github.com/shailesh2909/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shailesh2909/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shailesh2909/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/shailesh2909/leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/shailesh2909/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/shailesh2909/leetcode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -927,6 +930,7 @@ This is my Leetcode peoblems repo
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shailesh2909/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shailesh2909/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shailesh2909/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/shailesh2909/leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/shailesh2909/leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailesh2909/leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
