@@ -1504,4 +1504,12 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shailesh2909/leetcode/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shailesh2909/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shailesh2909/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

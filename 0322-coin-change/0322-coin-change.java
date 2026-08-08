@@ -1,38 +1,44 @@
 class Solution {
-    public int coinChange(int[] arr, int T) {
 
-        int n = arr.length;
+    public int solve(int ind, int target, int[] coins, int[][] dp)
+    {
 
-        int[] prev = new int[T + 1];
-        int[] cur = new int[T + 1];
-
-        for (int i = 0; i <= T; i++) 
+        if(ind == 0)
         {
-            if (i % arr[0] == 0)
-                prev[i] = i / arr[0];
-            else
-                prev[i] = (int) 1e9;
-        }
-
-        for (int ind = 1; ind < n; ind++) 
-        {
-            for (int target = 0; target <= T; target++) 
+            if(target % coins[ind] == 0)
             {
-                int notTake = prev[target];
-
-                int take = (int) 1e9;
-                if (arr[ind] <= target)
-                    take = 1 + cur[target - arr[ind]];
-
-                cur[target] = Math.min(notTake, take);
+                return target / coins[ind];
             }
-
-            prev = cur.clone();
+            else
+            {
+                return (int)1e9;
+            }
         }
 
-        int ans = prev[T];
-        if (ans >= 1e9)
-            return -1;
-        return ans;
+        if(dp[ind][target] != 0)
+        {
+            return dp[ind][target];
+        }
+
+        int nontake = 0 + solve(ind - 1, target, coins, dp);
+
+        int take = Integer.MAX_VALUE;
+
+        if(coins[ind] <= target)
+        {
+            take = 1 + solve(ind, target - coins[ind], coins, dp);
+        }
+
+        return dp[ind][target] = Math.min(take, nontake);
+    }
+
+    public int coinChange(int[] coins, int amount) {
+
+        int n = coins.length;
+        
+        int dp[][] = new int[n][amount + 1];
+
+        int ans = solve(n - 1, amount, coins, dp);
+        return ans == 1e9 ? -1 : ans;
     }
 }
