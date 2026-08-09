@@ -93,6 +93,7 @@ This is my Leetcode peoblems repo
 | [0485-max-consecutive-ones](https://github.com/shailesh2909/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shailesh2909/leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/shailesh2909/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/shailesh2909/leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/shailesh2909/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shailesh2909/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -643,6 +644,7 @@ This is my Leetcode peoblems repo
 | [0416-partition-equal-subset-sum](https://github.com/shailesh2909/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shailesh2909/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shailesh2909/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shailesh2909/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shailesh2909/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/shailesh2909/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1265,6 +1267,7 @@ This is my Leetcode peoblems repo
 | [0126-word-ladder-ii](https://github.com/shailesh2909/leetcode/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/shailesh2909/leetcode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/shailesh2909/leetcode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/shailesh2909/leetcode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shailesh2909/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/shailesh2909/leetcode/tree/master/2107-find-unique-binary-string) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/shailesh2909/leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -1513,6 +1516,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shailesh2909/leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shailesh2909/leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1525,4 +1529,8 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shailesh2909/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
