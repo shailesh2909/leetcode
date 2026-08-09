@@ -140,6 +140,7 @@ This is my Leetcode peoblems repo
 | [1073-number-of-enclaves](https://github.com/shailesh2909/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shailesh2909/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/shailesh2909/leetcode/tree/master/1222-remove-covered-intervals) |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/shailesh2909/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/shailesh2909/leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -354,6 +355,7 @@ This is my Leetcode peoblems repo
 | [0909-stone-game](https://github.com/shailesh2909/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/shailesh2909/leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/shailesh2909/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/shailesh2909/leetcode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shailesh2909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/shailesh2909/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -651,6 +653,7 @@ This is my Leetcode peoblems repo
 | [0909-stone-game](https://github.com/shailesh2909/leetcode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/shailesh2909/leetcode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shailesh2909/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/shailesh2909/leetcode/tree/master/1522-stone-game-iii) |
@@ -765,6 +768,7 @@ This is my Leetcode peoblems repo
 | [0724-find-pivot-index](https://github.com/shailesh2909/leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/shailesh2909/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shailesh2909/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shailesh2909/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shailesh2909/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/shailesh2909/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -1374,6 +1378,7 @@ This is my Leetcode peoblems repo
 | ------- |
 | [0486-predict-the-winner](https://github.com/shailesh2909/leetcode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/shailesh2909/leetcode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/shailesh2909/leetcode/tree/master/1522-stone-game-iii) |
 ## Concurrency
 |  |
@@ -1512,4 +1517,12 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shailesh2909/leetcode/tree/master/0322-coin-change) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
