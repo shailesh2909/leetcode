@@ -367,6 +367,7 @@ This is my Leetcode peoblems repo
 | [1446-angle-between-hands-of-a-clock](https://github.com/shailesh2909/leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/shailesh2909/leetcode/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/shailesh2909/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
 | [1635-number-of-good-pairs](https://github.com/shailesh2909/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1728-fancy-sequence](https://github.com/shailesh2909/leetcode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shailesh2909/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -662,6 +663,7 @@ This is my Leetcode peoblems repo
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/shailesh2909/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1522-stone-game-iii](https://github.com/shailesh2909/leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/shailesh2909/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/shailesh2909/leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shailesh2909/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2708-find-the-string-with-lcp](https://github.com/shailesh2909/leetcode/tree/master/2708-find-the-string-with-lcp) |
@@ -1385,6 +1387,7 @@ This is my Leetcode peoblems repo
 | [0909-stone-game](https://github.com/shailesh2909/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/shailesh2909/leetcode/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
 ## Concurrency
 |  |
 | ------- |
@@ -1529,12 +1532,22 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shailesh2909/leetcode/tree/master/0494-target-sum) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
