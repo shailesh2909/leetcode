@@ -663,6 +663,7 @@ This is my Leetcode peoblems repo
 | [0909-stone-game](https://github.com/shailesh2909/leetcode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/shailesh2909/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/shailesh2909/leetcode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/shailesh2909/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/shailesh2909/leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/shailesh2909/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shailesh2909/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -883,6 +884,7 @@ This is my Leetcode peoblems repo
 | [0812-rotate-string](https://github.com/shailesh2909/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailesh2909/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/shailesh2909/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1170-shortest-common-supersequence](https://github.com/shailesh2909/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shailesh2909/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shailesh2909/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shailesh2909/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1557,7 +1559,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
@@ -1565,5 +1567,6 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/shailesh2909/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1170-shortest-common-supersequence](https://github.com/shailesh2909/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shailesh2909/leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
