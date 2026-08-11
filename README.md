@@ -635,6 +635,7 @@ This is my Leetcode peoblems repo
 | [0064-minimum-path-sum](https://github.com/shailesh2909/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shailesh2909/leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/shailesh2909/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shailesh2909/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shailesh2909/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -860,6 +861,7 @@ This is my Leetcode peoblems repo
 | [0068-text-justification](https://github.com/shailesh2909/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/shailesh2909/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/shailesh2909/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shailesh2909/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/shailesh2909/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shailesh2909/leetcode/tree/master/0127-word-ladder) |
@@ -1559,7 +1561,7 @@ This is my Leetcode peoblems repo
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/shailesh2909/leetcode/tree/master/1617-stone-game-iv) |
