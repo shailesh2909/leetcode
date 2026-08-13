@@ -3,7 +3,8 @@ class Solution {
 
         int n = prices.length; 
 
-        int dp[][] = new int[n+1][2];
+        int ahead[] = new int[2];
+        int curr[] = new int[2];
 
         for(int i = n - 1; i >= 0; i--)
         {
@@ -13,17 +14,19 @@ class Solution {
         
                 if(buy == 1)
                 {
-                    profit = Math.max(-prices[i] + dp[i + 1][0], dp[i + 1][1]);
+                    profit = Math.max(-prices[i] + ahead[0], ahead[1]);
                 }
                 else
                 {
-                    profit = Math.max(prices[i] - fee + dp[i + 1][1], dp[i + 1][0]);
+                    profit = Math.max(prices[i] - fee + ahead[1], ahead[0]);
                 }
 
-                dp[i][buy] = profit;
+                curr[buy] = profit;
             }
+
+            ahead = curr;
         }
-        return dp[0][1];
+        return ahead[1];
         
     }
 }
