@@ -8,6 +8,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shailesh2909/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shailesh2909/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,4 +20,16 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## String
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Segment Tree
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
