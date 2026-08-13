@@ -4,7 +4,8 @@ class Solution {
 
         int n = prices.length;
         
-        int dp[][][] = new int[n+1][2][3];
+        int after[][] = new int[2][3];
+        int curr[][] = new int[2][3];
 
         for(int i = n - 1; i >= 0; i--)
         {
@@ -17,25 +18,27 @@ class Solution {
 
                     if(buy == 1)
                     {
-                        profit = Math.max(-prices[i] + dp[i + 1][0][cap], dp[i + 1][1][cap]);
+                        profit = Math.max(-prices[i] + after[0][cap], after[1][cap]);
                     }
                     else
                     {
                         if(cap > 0)
                         {
-                            profit = Math.max(prices[i] + dp[i + 1][1][cap - 1], dp[i + 1][0][cap]);
+                            profit = Math.max(prices[i] + after[1][cap - 1], after[0][cap]);
                         }
                         else
                         {
-                            profit = dp[i + 1][0][cap];
+                            profit = after[0][cap];
                         }
                     }
 
-                    dp[i][buy][cap] = profit;
+                    curr[buy][cap] = profit;
                 }
             }
+
+            after = curr;
         }
 
-        return dp[0][1][2];
+        return after[1][2];
     }
 }
