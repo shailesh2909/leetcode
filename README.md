@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/shailesh2909/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
+## Hash Table
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/shailesh2909/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/shailesh2909/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
