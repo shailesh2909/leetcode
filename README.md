@@ -10,6 +10,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shailesh2909/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +64,24 @@
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shailesh2909/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
 <!---LeetCode Topics End-->
