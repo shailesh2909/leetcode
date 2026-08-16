@@ -10,6 +10,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shailesh2909/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 | [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shailesh2909/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shailesh2909/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -56,9 +59,11 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 ## Hash Table
 |  |
 | ------- |
+| [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shailesh2909/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -84,4 +89,8 @@
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
+## Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
