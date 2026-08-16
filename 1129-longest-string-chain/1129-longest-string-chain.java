@@ -35,12 +35,11 @@ class Solution {
         int n = words.length;
         int dp[] = new int[n];
 
-        Arrays.fill(dp, 1);
-
         int max = 1;
 
         for(int i = 0; i < n; i++)
         {
+            dp[i] = 1;
             for(int prev = 0; prev < i; prev++)
             {
                 if(compare(words[i], words[prev]) && 1 + dp[prev] > dp[i])
