@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
 | [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailesh2909/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/shailesh2909/leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
@@ -117,10 +118,12 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailesh2909/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shailesh2909/leetcode/tree/master/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailesh2909/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Prefix Sum
 |  |
