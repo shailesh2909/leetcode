@@ -2,23 +2,13 @@ class Solution {
     public int majorityElement(int[] nums) {
         
         int count = 0;
-        int ele = 0;
+        int ele = nums[0];
 
-        for(int i = 0; i < nums.length; i++)
+        for(int e : nums)
         {
-            if(count == 0)
-            {
-                count = 1;
-                ele = nums[i];
-            }
-            else if(nums[i] == ele)
-            {
-                count++;
-            }
-            else
-            {
-                count--;
-            }
+            if(e == ele) count++;
+            else if(count == 0) ele = e;
+            else count--;
         }
 
         return ele;
