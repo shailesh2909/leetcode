@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/shailesh2909/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shailesh2909/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/shailesh2909/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shailesh2909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shailesh2909/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shailesh2909/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shailesh2909/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/shailesh2909/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
@@ -130,6 +132,7 @@
 | [0015-3sum](https://github.com/shailesh2909/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shailesh2909/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shailesh2909/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/shailesh2909/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 ## Binary Indexed Tree
@@ -164,7 +167,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shailesh2909/leetcode/tree/master/0075-sort-colors) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shailesh2909/leetcode/tree/master/0169-majority-element) |
