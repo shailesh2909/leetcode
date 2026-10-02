@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailesh2909/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shailesh2909/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/shailesh2909/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailesh2909/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailesh2909/leetcode/tree/master/0011-container-with-most-water) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shailesh2909/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2156-stone-game-ix](https://github.com/shailesh2909/leetcode/tree/master/2156-stone-game-ix) |
 ## String
@@ -109,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailesh2909/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shailesh2909/leetcode/tree/master/0015-3sum) |
 | [1129-longest-string-chain](https://github.com/shailesh2909/leetcode/tree/master/1129-longest-string-chain) |
 ## Binary Indexed Tree
