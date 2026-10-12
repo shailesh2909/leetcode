@@ -1,34 +1,42 @@
 class Solution {
 
-    public boolean solve(char[][] board, String word, int x, int y, int index, StringBuffer output)
+    public boolean solve(int i, int j, int ind, char board[][], String word, boolean vis[][])
     {
-        if(index == word.length())
+        if(ind == word.length())
         {
             return true;
         }
-
-        if((x < 0 || x >= board.length) || (y < 0 || y >= board[0].length) || board[x][y] != word.charAt(index))
+        
+        if(((i < 0 || i >= board.length) || (j < 0 || j >= board[0].length)))
         {
             return false;
         }
 
-        char temp = board[x][y];
-        board[x][y] = '#';
+        if(vis[i][j] || board[i][j] != word.charAt(ind))
+        {
+            return false;
+        }
 
-        boolean result = solve(board, word, x - 1, y, index + 1, output) || solve(board, word, x + 1, y, index + 1, output) || solve(board, word, x, y - 1, index + 1, output) || solve(board, word, x, y + 1, index + 1, output);
 
-        board[x][y] = temp;
+        vis[i][j] = true;
 
-        return result;     
+        boolean res = solve(i + 1, j, ind + 1, board, word, vis) || solve(i - 1, j, ind + 1, board, word, vis) ||
+               solve(i, j + 1, ind + 1, board, word, vis) || solve(i, j - 1, ind + 1, board, word, vis);
+
+        vis[i][j] = false;
+
+        return res;
+
     }
-
     public boolean exist(char[][] board, String word) {
         
+        boolean vis[][] = new boolean[board.length][board[0].length];
+
         for(int i = 0; i < board.length; i++)
         {
             for(int j = 0; j < board[0].length; j++)
             {
-                if(solve(board, word, i, j, 0, new StringBuffer()))
+                if(solve(i, j, 0, board, word, vis))
                 {
                     return true;
                 }
