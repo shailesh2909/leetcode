@@ -17,6 +17,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/shailesh2909/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
