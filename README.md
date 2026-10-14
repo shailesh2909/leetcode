@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/shailesh2909/leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
