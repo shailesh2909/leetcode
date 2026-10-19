@@ -28,6 +28,7 @@
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/shailesh2909/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/shailesh2909/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -78,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -94,9 +96,11 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
