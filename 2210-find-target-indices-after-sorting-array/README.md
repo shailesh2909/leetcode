@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-target-indices-after-sorting-array">2210. Find Target Indices After Sorting Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a target element <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-target-indices-after-sorting-array/?envType=daily-question&envId=2026-10-19">2210. Find Target Indices After Sorting Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a target element <code>target</code>.</p>
 
 <p>A <strong>target index</strong> is an index <code>i</code> such that <code>nums[i] == target</code>.</p>
 

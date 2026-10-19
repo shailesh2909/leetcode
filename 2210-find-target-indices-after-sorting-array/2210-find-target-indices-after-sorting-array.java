@@ -2,23 +2,45 @@ class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
 
         int n = nums.length;
-        
+
         List<Integer> ans = new ArrayList<>();
 
         Arrays.sort(nums);
 
-        boolean flag = false;
+        int left = 0;
+        int right = n - 1;
 
-        for(int i = 0; i < n; i++)
+        while(left <= right)
         {
-            if(nums[i] == target)
+            int mid = left + (right - left) / 2;
+
+            if(nums[mid] == target)
             {
-                ans.add(i);
-                flag = true;
-            }
-            else if(flag)
-            {
+                int i = mid;
+
+                while(i >= 0 && nums[i] == target)
+                {
+                    i--;
+                }
+
+                i++;
+
+                while(i < n && nums[i] == target)
+                {
+                    ans.add(i);
+                    i++;
+                }
+
                 break;
+            }
+
+            if(nums[mid] > target)
+            {
+                right = mid - 1;
+            }
+            else
+            {
+                left = mid + 1;
             }
         }
 
