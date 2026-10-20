@@ -35,6 +35,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/shailesh2909/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/shailesh2909/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
