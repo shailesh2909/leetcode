@@ -6,6 +6,7 @@
 | ------- |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shailesh2909/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/shailesh2909/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
