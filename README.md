@@ -6,6 +6,7 @@
 | ------- |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shailesh2909/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/shailesh2909/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Dynamic Programming
