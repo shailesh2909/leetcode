@@ -7,6 +7,7 @@
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shailesh2909/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/shailesh2909/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -73,6 +75,7 @@
 | ------- |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [1380-number-of-closed-islands](https://github.com/shailesh2909/leetcode/tree/master/1380-number-of-closed-islands) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Database
 |  |
 | ------- |
@@ -122,19 +126,23 @@
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
