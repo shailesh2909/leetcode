@@ -7,6 +7,7 @@
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shailesh2909/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shailesh2909/leetcode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/shailesh2909/leetcode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/shailesh2909/leetcode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/shailesh2909/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shailesh2909/leetcode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/shailesh2909/leetcode/tree/master/1380-number-of-closed-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shailesh2909/leetcode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shailesh2909/leetcode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
