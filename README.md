@@ -41,6 +41,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4041-climbing-stairs-ii](https://github.com/shailesh2909/leetcode/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/shailesh2909/leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4041-climbing-stairs-ii](https://github.com/shailesh2909/leetcode/tree/master/4041-climbing-stairs-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
