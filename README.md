@@ -39,6 +39,7 @@
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shailesh2909/leetcode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shailesh2909/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/shailesh2909/leetcode/tree/master/4041-climbing-stairs-ii) |
