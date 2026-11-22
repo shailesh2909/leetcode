@@ -6,6 +6,7 @@
 | ------- |
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shailesh2909/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/shailesh2909/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shailesh2909/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shailesh2909/leetcode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
