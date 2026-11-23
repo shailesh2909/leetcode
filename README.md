@@ -34,6 +34,7 @@
 | [0079-word-search](https://github.com/shailesh2909/leetcode/tree/master/0079-word-search) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shailesh2909/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1380-number-of-closed-islands](https://github.com/shailesh2909/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shailesh2909/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/shailesh2909/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shailesh2909/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -187,4 +189,16 @@
 |  |
 | ------- |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shailesh2909/leetcode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
