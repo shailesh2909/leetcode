@@ -43,6 +43,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shailesh2909/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/shailesh2909/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/shailesh2909/leetcode/tree/master/4041-climbing-stairs-ii) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/shailesh2909/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/shailesh2909/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
 ## Backtracking
 |  |
@@ -99,6 +101,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/shailesh2909/leetcode/tree/master/2496-count-days-spent-together) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/shailesh2909/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/shailesh2909/leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4257-sum-of-sortable-integers](https://github.com/shailesh2909/leetcode/tree/master/4257-sum-of-sortable-integers) |
@@ -201,4 +204,12 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/shailesh2909/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/shailesh2909/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/shailesh2909/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
