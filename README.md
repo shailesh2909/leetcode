@@ -22,6 +22,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shailesh2909/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/shailesh2909/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/shailesh2909/leetcode/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/shailesh2909/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/shailesh2909/leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
@@ -44,6 +45,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/shailesh2909/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shailesh2909/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shailesh2909/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/shailesh2909/leetcode/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/shailesh2909/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/shailesh2909/leetcode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/shailesh2909/leetcode/tree/master/4041-climbing-stairs-ii) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shailesh2909/leetcode/tree/master/0070-climbing-stairs) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shailesh2909/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/shailesh2909/leetcode/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [4041-climbing-stairs-ii](https://github.com/shailesh2909/leetcode/tree/master/4041-climbing-stairs-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/shailesh2909/leetcode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Memoization
